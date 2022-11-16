@@ -1,0 +1,25 @@
+#pragma once
+
+#include <algorithm>
+#include <array>
+#include <climits>
+#include <cmath>
+#include <complex>
+#include <cstdlib>
+#include <ctime>
+#include <fstream>
+#include <functional>
+#include <initializer_list>
+#include <iomanip>
+#include <iostream>
+#include <list>
+#include <map>
+#include <numeric>
+#include <queue>
+#include <set>
+#include <stack>
+#include <string>
+#include <thread>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
