@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 
+/*Class-Based Version*/
 class FastScanner {
     BufferedReader br;
     StringTokenizer st;
@@ -35,11 +36,13 @@ class FastScanner {
     }
 }
 
+/*Main*/
 public class BufferedReaderTemplate {
     public static void main(String[] args) throws IOException {
         int n = readInt();
     }
-    
+
+    /*Standard BufferedReader Template*/
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 
